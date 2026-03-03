@@ -1,3 +1,0 @@
-For our lines of code, in our Test file we ended up having to copy some 
-functions from Main so that it woudld read our CSV files with the data. 
-This code happens before the test cases start.
