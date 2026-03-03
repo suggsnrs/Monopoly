@@ -1,0 +1,13 @@
+category,text
+move,Taipei
+move,GO
+move,Beijing
+move,MonopAir
+move,MonopRail
+move,Parking
+lose,500
+lose,250
+lose,1000
+win,250
+win,500
+win,1000

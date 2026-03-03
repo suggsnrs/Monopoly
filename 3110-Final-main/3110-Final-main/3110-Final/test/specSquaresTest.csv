@@ -1,0 +1,13 @@
+position,name,text
+1,GO,Collect $2k
+3,Chest, 
+5,IncomeTax,Pay $2k
+8,Chance, 
+11,Jail, 
+18,Chest, 
+21,Parking, 
+23,Chance, 
+31,Go to Jail, 
+34,Chest, 
+37,Chance,
+39,LuxuryTax,Pay $2k

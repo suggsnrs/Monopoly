@@ -1,0 +1,14 @@
+How to install necessary packages:
+
+1. Open Ubuntu (or other relavent terminal you plan to use to run the project)
+2. Type in [opam install graphics] in the terminal to install the graphics library. Answer any 
+prompts it asks with you current information, it might ask to update opam in which case say 
+yes [Y] and it could also ask for your password in which case type it in.
+3. Type in [opam install csv] in the terminal to install the csv library. Answer any 
+prompts it asks with you current information, it might ask to update opam in which case say 
+yes [Y] and it could also ask for your password in which case type it in.
+3. Once these has been installed, navigate to the directory which contains 3110-Final by typing
+[cd <name_of_directory>] until finally typing [cd Final].
+4. To build the program, type [dune build].
+5. To run the program, type [dune exec bin/main.exe x] where x is the number of players in the 
+game (2 to 4).

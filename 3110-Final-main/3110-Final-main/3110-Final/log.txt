@@ -1,0 +1,858 @@
+commit 2edc7421992465e861389b8a091d2af3dbdc7c4d
+Author: es874 <es874@cornell.edu>
+Date:   Thu May 16 11:19:23 2024 -0400
+
+    Edited documentation
+
+commit dc3ce5d60927cae78b295ba9930a10e1e64bf6cf
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Thu May 16 10:41:14 2024 -0400
+
+    Change on testing and running game to make sure all features wanted work.
+
+commit 0265fbdb268ac06f9ab796ba7e52d447cb274bca
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 16 10:34:21 2024 -0400
+
+    Updated Files, removed Todos
+
+commit 693fe19cc04ee9f56a2dd4d5f61542894848ea62
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 16 09:14:27 2024 -0400
+
+    Fixed warning messages
+
+commit e9c9ef17863445f627919d0d2e4b4fc5cb85a94e
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 16 09:05:08 2024 -0400
+
+    Added specs to .mli files
+
+commit e52e457a36cd4f5a23e4c0903cb03a7d6e10c470
+Author: lh656 <lh656@cornell.edu>
+Date:   Thu May 16 08:59:48 2024 -0400
+
+    Removed all but one warning (removing open graphics changed data type from colour to int...)
+
+commit 3444190a8c3eb428708525af4be755114c68d651
+Author: lh656 <lh656@cornell.edu>
+Date:   Thu May 16 08:54:18 2024 -0400
+
+    Shortern some functions in Player.ml
+
+commit 066d09118e9712d1ab020206295f6bb143d437d3
+Merge: ecc08ed 83f8e6d
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 16 08:42:32 2024 -0400
+
+    Merging with Rich's code.
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit ecc08ed8090d79cdad5dadef0df0b3b88716821f
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 16 08:42:16 2024 -0400
+
+    Merging with Rich's code
+
+commit 83f8e6daaf948ed3c9357b8a8249c154e50a4d4a
+Author: lh656 <lh656@cornell.edu>
+Date:   Thu May 16 08:34:38 2024 -0400
+
+    Removed warnings
+
+commit 70160815d4bd30422020dc2c0a80ec59b3e7b57c
+Author: lh656 <lh656@cornell.edu>
+Date:   Thu May 16 08:27:49 2024 -0400
+
+    Fixed Board.ml, Button.ml so all functions are no more than 20 lines, first 500 lines of Game.ml fixed
+
+commit 01dbde7519dd4d26f99cb9213b6df15e4e73e6f9
+Merge: 87b00d6 5cc7785
+Author: es874 <es874@cornell.edu>
+Date:   Thu May 16 01:10:13 2024 -0400
+
+    M
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 87b00d682a4aa911a8f9614118bf137d94713e9c
+Author: es874 <es874@cornell.edu>
+Date:   Thu May 16 01:09:43 2024 -0400
+
+    Added some documentation
+
+commit 5cc77851762e2e5ec1b87efe0b5ec533333e96da
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 16 01:03:25 2024 -0400
+
+    Fixed error in tests
+
+commit 4956b6cb0ae07501569e42516c6cfe17aa6088fd
+Merge: ebaf77d 4aca795
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 16 01:01:01 2024 -0400
+
+    Merging with Elya's code.
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit ebaf77d74b64bdac2ba2334b7f606ec27c0f337a
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 16 01:00:42 2024 -0400
+
+    Merging with Elya's code
+
+commit 4aca795a43ab3a6034b227dfc338c02cde2c2013
+Merge: a611f59 4034cfb
+Author: es874 <es874@cornell.edu>
+Date:   Thu May 16 00:57:25 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit a611f59e9190f16477ad827306468b1d24269182
+Author: es874 <es874@cornell.edu>
+Date:   Thu May 16 00:56:22 2024 -0400
+
+    Corrected hotels/houses functions
+
+commit 4034cfb9f82aaf3178bb1d41660efba22b0f5b3e
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 23:51:09 2024 -0400
+
+    Added test cases
+
+commit 419f1b87b36aa2c87781b1ccbd2bcda0d8dc680f
+Merge: b949233 3146264
+Author: es874 <es874@cornell.edu>
+Date:   Wed May 15 23:00:08 2024 -0400
+
+    Fixed index error
+
+commit b949233872ea555af60effd4a572e198fcc5a14e
+Merge: 8d5404f 3d3e105
+Author: es874 <es874@cornell.edu>
+Date:   Wed May 15 22:59:05 2024 -0400
+
+    Saved
+
+commit 31462648ed2fc3deae8bc5313d899036a520faa2
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 22:55:14 2024 -0400
+
+    Buying house works if you have one property
+
+commit 8d5404fdf04f527271de2d4f2d83773104881bb0
+Author: es874 <es874@cornell.edu>
+Date:   Wed May 15 22:37:00 2024 -0400
+
+    Retracked to prev
+
+commit 3d3e10575fd469b42aa3c599479fd559d582ad00
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 22:35:21 2024 -0400
+
+    Fixed Houses and Hotels
+
+commit c98067b0e87697161ffeacbaedc21c22899c19b2
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 22:08:32 2024 -0400
+
+    Fixed index error
+
+commit 5eadf5d8a919e4945b99c0b1db0607b213a19f0f
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 21:39:25 2024 -0400
+
+    Houses and Hotels implementation
+
+commit 185f6da7a1d1ea8b66b9229f070944c1cdbf4dd3
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 18:52:56 2024 -0400
+
+    Added argument to function
+
+commit 7529c2dcd589e00209878a692e212724e19c05f0
+Merge: 219fa9d 405dc24
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 18:51:26 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 219fa9d43b4208188ba06f4142b40c0cc5a4bfa6
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 18:47:41 2024 -0400
+
+    Worked on Buying Houses
+
+commit 405dc24dddaaedf5d7361933b2875a84eb5e83e3
+Merge: 8db1ad7 32b1940
+Author: es874 <es874@cornell.edu>
+Date:   Wed May 15 17:56:28 2024 -0400
+
+    Merging Gaspard's and Elya's changes
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 8db1ad78cdbe7f8679d10d13d57d288b7d9a37c1
+Author: es874 <es874@cornell.edu>
+Date:   Wed May 15 17:56:00 2024 -0400
+
+    Code style edits
+    - Moved drawing functions to Board
+    - Moved general logic functions (like checking for endgame) from Player to Game
+
+commit 32b194056db75fa99c14ba40d0efff63dec67c4a
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Wed May 15 17:44:07 2024 -0400
+
+    Documentation for Button interface and Update on test suite.
+
+commit 29a828f33e85f98b14817dc6a6d3c3dbcbe779a2
+Merge: 07ab1f8 b98a324
+Author: es874 <es874@cornell.edu>
+Date:   Wed May 15 16:53:42 2024 -0400
+
+    Merging Elina's and Natalie's changes
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 07ab1f807893a65b2b11c8854b01ac91798e7271
+Author: es874 <es874@cornell.edu>
+Date:   Wed May 15 16:53:21 2024 -0400
+
+    Edited Game.ml
+    - Incorporated house/hotels functions into the game loop
+    - Broke up long functions into shorter ones
+
+commit b98a32417282cea933b23ca607da857dd3261920
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 15:18:44 2024 -0400
+
+    Broke up function
+
+commit 8c8d0eaa184ac707e1959d5cbf5f6bb97a81da39
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 14:53:11 2024 -0400
+
+    Broke up test function
+
+commit cf27976fdca8ec70b66de712f03ea6bdee9a990c
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 14:43:15 2024 -0400
+
+    Fixed test file
+
+commit 82ce88f55e4ecbff8fcf88a7a6a0b7b76edb07cf
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 14:41:42 2024 -0400
+
+    Added tests
+
+commit 484aba26fbfbb9e0257f4ac10cc157095c5c52f1
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 13:28:32 2024 -0400
+
+    More Tests
+
+commit b448d9af81233f532873ca69c1363174d2f508d6
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Wed May 15 12:04:13 2024 -0400
+
+    Added csv files for tests, made more test cases
+
+commit 19738174a05851fcc5dead3172936b63b57661a7
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Tue May 14 23:03:42 2024 -0400
+
+    Added function signatures to Game.mli, added tests
+
+commit a8e1455dc95d4eee2fc3058252ef0f6a4fed18bd
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Tue May 14 20:51:08 2024 -0400
+
+    Added .mli files for Board and Game (renamed board.ml to Board.ml)
+
+commit b1bde76aa07cdf8659324b5d3b780845b5169525
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Tue May 14 16:05:43 2024 -0400
+
+    Fixed trading and drawing of player's names
+
+commit bcc21bd79329ba27e0ea6b5dc29d57830ebda7ad
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Tue May 14 15:11:06 2024 -0400
+
+    Fixed Trading
+
+commit ce6ab60f859caa20a55e545cf99db7726eefbf4e
+Author: es874 <es874@cornell.edu>
+Date:   Tue May 14 13:19:03 2024 -0400
+
+    Corrected erasing bankrupt's info
+    - When another player wins immediately after someone becomes bankrupt we erase bankrupts info. Note, if we add buildings we need to erase them as well
+
+commit 10ed3be1b4b4068c64b0ed95b68d1b3ce8943a5e
+Author: lh656 <lh656@cornell.edu>
+Date:   Tue May 14 07:51:52 2024 -0400
+
+    test
+
+commit 6ddf779c2746703a9b2449c8a28ad51579ea7b1e
+Author: lh656 <your_netid@cornell.edu>
+Date:   Tue May 14 07:38:01 2024 -0400
+
+    test
+
+commit 26bdfc05f673959953b81008b069a1a11044bef9
+Author: lh656 <your_netid@cornell.edu>
+Date:   Tue May 14 07:33:07 2024 -0400
+
+    test
+
+commit 79a6732c725a0fc191e7c1f356cfb7b7532842fd
+Author: lh656 <your_netid@cornell.edu>
+Date:   Tue May 14 07:31:34 2024 -0400
+
+    test
+
+commit 88ae55aded86ef752bdb3dda5f61ddfaa2ea895f
+Author: lh656 <your_netid@cornell.edu>
+Date:   Tue May 14 07:28:55 2024 -0400
+
+    testing commit
+
+commit fea4f7412c8552f94e44ebf44e5e84df638a2165
+Author: Your Name <your_netid@cornell.edu>
+Date:   Tue May 14 07:18:03 2024 -0400
+
+    Included functions to buy and sell houses and hotels
+
+commit 1405e05043b81036d8cf5e3d7326a68f8bdc2fa5
+Author: es874 <es874@cornell.edu>
+Date:   Tue May 14 03:41:31 2024 -0400
+
+    Tiny fix
+
+commit 8fc2760bb15e0281a777583603de8b1cf22f056e
+Author: es874 <es874@cornell.edu>
+Date:   Tue May 14 03:27:32 2024 -0400
+
+    Edited move on chance/chest; added some info messages
+
+commit 64850a1c3dd58f6f6254e53e1c993088962a1701
+Author: es874 <es874@cornell.edu>
+Date:   Tue May 14 03:24:46 2024 -0400
+
+    Edited move on chance/chest; added some info messages
+
+commit 053ca1af8275e583d0eb4715378cfee755c4aa58
+Author: es874 <es874@cornell.edu>
+Date:   Tue May 14 01:27:33 2024 -0400
+
+    Edited messages and commented out buttons
+
+commit a1822bf1cc2104c634ec332e4954f6f4f34707bf
+Author: es874 <es874@cornell.edu>
+Date:   Tue May 14 00:32:07 2024 -0400
+
+    Edited exit
+
+commit 6f9a0f0076ad0d7726d97f63ce0ae64066ae7204
+Merge: 33f3706 b59fd51
+Author: es874 <es874@cornell.edu>
+Date:   Tue May 14 00:25:13 2024 -0400
+
+    Merge1
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 33f3706544687df1c4851acc36ce5df86054d906
+Author: es874 <es874@cornell.edu>
+Date:   Tue May 14 00:24:59 2024 -0400
+
+    Edited exit
+
+commit b59fd5101ab70dc4e15b009d2300e40425b2469e
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Tue May 14 00:24:20 2024 -0400
+
+    Player Bankrupty and Trades corrections
+
+commit 2cad615295d0d67a892faf489d0a7cdd597a05c9
+Merge: c102224 2d28459
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Tue May 14 00:13:05 2024 -0400
+
+    Merging Gaspard's work
+    
+    x
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit c1022247c7079fa9e2c0f28c9c3e81cbc03dfcdb
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Tue May 14 00:12:28 2024 -0400
+
+    Implementation of chance and chest cards. Added randomization of generation of messages when players draw a card from csv files created. Divided prices by 1k to make game more readable.
+
+commit 2d28459e04fd3e5ee647dd8b8d46abc7f11aabe7
+Merge: a9e6fce 6066f2d
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Tue May 14 00:08:20 2024 -0400
+
+    Merge Trading with Elya's part
+    
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit a9e6fcea0979aefc72eb9f93a526893beb75dae3
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Tue May 14 00:07:56 2024 -0400
+
+    Trading
+
+commit 6066f2dbb0d2e675b668c35033551f5e0c095a70
+Author: es874 <es874@cornell.edu>
+Date:   Tue May 14 00:06:18 2024 -0400
+
+    End game and bankruptcy and sth else
+
+commit d6e6e409e322caad98cc4c8cd00aaee883e181fa
+Author: es874 <es874@cornell.edu>
+Date:   Mon May 13 22:48:15 2024 -0400
+
+    Merged Gaspard's work with change in decrease function
+
+commit 553ce64793cb5fd82cac0cf4c36aa4c428d4ffc7
+Merge: 909291c 565b226
+Author: es874 <es874@cornell.edu>
+Date:   Mon May 13 22:43:15 2024 -0400
+
+    Merging decreas_money Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 909291ce3def89ed07fc7d92b3366bb270a18e02
+Author: es874 <es874@cornell.edu>
+Date:   Mon May 13 22:42:58 2024 -0400
+
+    Change decrease function and everything related
+
+commit 565b2260e319e95617af94d0b85b91e6e7eb7c5c
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Mon May 13 22:42:09 2024 -0400
+
+    Implementation of Chance cards
+    
+    - added chance.csv that contains information of chance card (category and action item)
+    - Added a function in Game.ml to read such csv file and translate into list of tuples
+    - Implemented changes in Game.ml in order to make the right choices in terms of player money and position from random card selected
+
+commit d9d9259e50925d1726494cac8ebb4f41a9ed5b4d
+Merge: 2e63012 8138ab6
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Mon May 13 21:53:22 2024 -0400
+
+    Merging Natalie's changes for transactions Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 2e63012c31a2196c1d1537b00fb216ea97b8c990
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Mon May 13 21:50:01 2024 -0400
+
+    Transactions editing
+
+commit 8138ab6d579a3701a4a577563c1433b05df5788a
+Merge: 9d19e9f 06642c2
+Author: es874 <es874@cornell.edu>
+Date:   Mon May 13 21:44:13 2024 -0400
+
+    Merging Elina's and Gaspard's changes Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 9d19e9fc1651c4a3f9d9a0850345ef93189dd8ed
+Author: es874 <es874@cornell.edu>
+Date:   Mon May 13 21:36:40 2024 -0400
+
+    Edited Special square actions, rent, displaying info
+
+commit 06642c2fc0082c42089d295170505952e0e18650
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Mon May 13 20:16:04 2024 -0400
+
+    Changes in main
+    
+    - changed some logic in main
+    - specifications for transactions
+    - specifications for special squares
+
+commit c35cb77ac635a8f7e69b92cf602c6fe2bdbb7b55
+Author: es874 <es874@cornell.edu>
+Date:   Mon May 13 19:52:51 2024 -0400
+
+    Tiny decorative change
+
+commit b31b80dddef29bf84aa9795e11517b6123ad9d6c
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Mon May 13 19:22:50 2024 -0400
+
+    Changed comments
+
+commit d6145653766814cd977d1a1916a52997150734ce
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Mon May 13 19:18:26 2024 -0400
+
+    Edited center message for center money
+
+commit 851cdc6c922ad6df29f5513d95faf48ab44c2e66
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat May 11 22:35:22 2024 -0400
+
+    Implemented selling property (morgaging it)
+
+commit 932003aaea43d375b3b67a84d5266eed1e94f334
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat May 11 00:17:37 2024 -0400
+
+    Implemented Parking special square
+
+commit 11994b9c92264e9eeaeb13cbd369b2309576ffa7
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Fri May 10 23:41:29 2024 -0400
+
+    Partial implementation of stepping on special squares.
+
+commit 022c1aac4662778ea785698d902e899e54505337
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Fri May 10 22:37:28 2024 -0400
+
+    Implemented erasing player's info if they're bankrupt,
+    and stepping on an owned property square.
+
+commit d649f61e8283524e40a3258ec5b156ce65e93625
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Fri May 10 09:39:30 2024 -0400
+
+    Added colored rectangles next to property names representing that property's color.
+
+commit 88ebcb31edd1fbef857cb0a230f200c1bdf10baa
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Fri May 10 09:24:19 2024 -0400
+
+    Each Player's number is highlighted when its' their turn.
+
+commit dc5d3c193919a218b7277b05306df8b941b98a33
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Fri May 10 08:51:21 2024 -0400
+
+    Fixed buying property so that if a property is owned
+    or if a player doesn't have enough money it can't be bought.
+
+commit e233fab35d411d0bfe51e23d3706936e403f303b
+Author: es874 <es874@cornell.edu>
+Date:   Fri May 10 00:54:11 2024 -0400
+
+    Couple of fixes
+    
+    - When Buy property is pushed we check first whether the square is indeed a property
+    - TODO: still need to fix buying property (for now it is possible to buy a property several times and to have negative amount of money)
+    - Fixed drawing players'  info: when drawing a player we check whether he still exists (if not, erase his info)
+
+commit 4fe96c6838e2c72e4effcdbe508723768bc73c90
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 9 23:47:12 2024 -0400
+
+    Fixed the listing of player's properties
+
+commit 2ecb8874385ee56f78dbe379849909743d710a53
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 9 23:17:05 2024 -0400
+
+    Slight change so that the Player's properties are displayed even if they don't have any.
+
+commit 5acbb7df6c7d2ed5c73225c224779eb0149a2860
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu May 9 23:09:03 2024 -0400
+
+    Implemented visualization of Player's money, properties, and cards.
+
+commit cb7c8cea0801c4ec9641e689a4992cdf52b795e8
+Author: es874 <es874@cornell.edu>
+Date:   Mon May 6 21:45:16 2024 -0400
+
+    implemented paying salary when passing GO
+
+commit 8fac667e03d3d988699203f65f796e303ec65762
+Author: es874 <es874@cornell.edu>
+Date:   Mon May 6 13:20:52 2024 -0400
+
+    implemented paying salary when passing GO
+
+commit d8ea13e0159b2d6afa56fba0c5ffe36ff47b8864
+Author: es874 <es874@cornell.edu>
+Date:   Mon May 6 02:49:57 2024 -0400
+
+    Created game logic loop with all buttons
+    
+    - Creates Button compilation unit
+    - Created Game.ml with the main game loop (in which all buttons are monitored and blocked when needed, and corresponding functions are called) and various helper functions. Module Dice is no longer needed
+    - Implemented functions for buttons interface (like waiting for mouse clicks or keyboard input)
+    - Corrected transactions module (because player who initiates trade can only sell his property, so requested part is not needed); implemented user interface for transactions
+    - Implemented buying property (including interface)
+    - Implemented basic bankruptcy function
+    - Created many stub functions that still need to be implemented; indicated stub functions by TODO comments; they are in Player and Game modules
+    - Note that player array doesn't change its size when a player is deleted; instead we store empty player in the array
+
+commit 3957f2ccb55810e0ae803bae789651e7c2a9f37a
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Tue Apr 30 00:05:28 2024 -0400
+
+    Implemented transaction logic
+    
+    - created compilation unit for trades in the game
+    - started adding a trading option on the User Interface
+
+commit 9cab46af2930e2c24f1637b180fe5d309c63db88
+Author: es874 <es874@cornell.edu>
+Date:   Mon Apr 29 12:58:12 2024 -0400
+
+    Rent, building, mortgage costs added to PropSquare
+
+commit 1ebb1d03cc718b96f533c53784395655dd9e3f42
+Author: es874 <es874@cornell.edu>
+Date:   Thu Apr 25 23:48:04 2024 -0400
+
+    Added all necessary fields to Player and PropSquare
+    
+    - Added fields for money and property to Player, and some elementary functions related to them (e.g. increase or decrease money)
+    - Created empty compilation units House and Hotel to use these types now
+    - Added fields for owner, houses, and hotels to PropSquare and some elementary functions related to them
+
+commit af4f77820dd99b15f6ba2723e716659ec9b24955
+Author: es874 <es874@cornell.edu>
+Date:   Sun Apr 21 22:15:05 2024 -0400
+
+    Shortened messages in special squares
+
+commit 20a2f38e8433d51fe5dffa73b7cbde0f20b56742
+Author: es874 <es874@cornell.edu>
+Date:   Sun Apr 21 19:04:03 2024 -0400
+
+    Small data fix
+    
+    -Added one city
+
+commit 7acb640729fd8aa0319abfdf24cbddf515a51680
+Author: es874 <es874@cornell.edu>
+Date:   Sun Apr 21 18:45:25 2024 -0400
+
+    Correct initialization of all squares, changed window size
+    
+    - Created functions to convert csv files with data into arrays of tuples
+    - Initialized arrays of property and special squares using the data
+    - Improved visualization (player tokens are now aligned along the lower side of a square; squares have colored strips; text data is pisplayed on the squares). Still need to improve text centering
+    -Changed window size. The board (the squares + 50pxl margins on both sides) is still 870*870, but the whole window is wider to accomodate displaying of players info (money, properties, etc.)
+
+commit c6fa9c9b74161cd1d5e6b82df444b01ea810544b
+Author: es874 <es874@cornell.edu>
+Date:   Sun Apr 21 12:54:50 2024 -0400
+
+    window size changed
+
+commit 2e5b7b387aaa56c3ddf203810e8f847d85794c43
+Merge: e094a58 94f2ac0
+Author: es874 <es874@cornell.edu>
+Date:   Thu Apr 4 01:54:29 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit e094a58274ccd2c358ee80d43b0d56f5c22e3b06
+Author: es874 <es874@cornell.edu>
+Date:   Thu Apr 4 01:53:19 2024 -0400
+
+    Corrected players creation
+    
+    - Implemented creation of correct number of players set by a user
+    - Tweaked everything that depended on the number of players
+    - Changed board size from 10*10 to 11*11 and tweaked everything that depended on that accordingly
+    - Note, graph size is now 870*870 instead of 800*800 (square size and margin size didn't change)
+
+commit 94f2ac0c1ab7fb99d124a2fc573d02601324aab4
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu Mar 28 23:40:43 2024 -0400
+
+    Renamed YAML file to YAML.yaml
+
+commit ed1ef10f63f79d617be523bb00f9af34482e8452
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu Mar 28 18:29:37 2024 -0400
+
+    Made YAML file using provided template and inputing our information
+
+commit 5e28696fa008b9c8e3911c7c827299cb219c5032
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Thu Mar 28 18:28:44 2024 -0400
+
+    Made INSTALL.txt file with instructions on how to install necessary libraries
+
+commit 7b1251f76af9310ec7415677530a697f69cf5e9d
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Mon Mar 25 11:06:46 2024 -0400
+
+    Updates in board.ml and new folder
+    
+    - Implemented Monopoly logo in the center of the board
+    - Added data folder with information about each square of the board
+
+commit 3202afcb3d52fb298105eb0d0d86dda3beccebb7
+Author: es874 <es874@cornell.edu>
+Date:   Mon Mar 25 00:31:12 2024 -0400
+
+    Players movement corrected
+
+commit 0d175feb5ea60bedbbd6164b9a87363f9cbaca5d
+Author: es874 <es874@cornell.edu>
+Date:   Mon Mar 25 00:24:39 2024 -0400
+
+    Players movement implemented
+
+commit b67209d164d33545471f6279ebf6a1ef48477a21
+Merge: f037c69 e197caa
+Author: es874 <es874@cornell.edu>
+Date:   Mon Mar 25 00:17:52 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit f037c697318a5f7c7c7e27860929f6ae9f93c4ef
+Author: es874 <es874@cornell.edu>
+Date:   Mon Mar 25 00:17:23 2024 -0400
+
+    Implemented players' tokens
+
+commit e197caab283c05c22aea95d4b8e464c0f1dce277
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sun Mar 24 22:15:29 2024 -0400
+
+    Implemented center_text
+    
+    This function will center the given string argument
+
+commit 963b8041ca5fee1f4f8e9fc24ea351663b797127
+Author: es874 <es874@cornell.edu>
+Date:   Sun Mar 24 18:55:23 2024 -0400
+
+    Fixed square numeration and players position
+
+commit 8d278e5ea6e00f426f1ac15d01344232d9c554eb
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Sun Mar 24 17:44:20 2024 -0400
+
+    Implement dice roll
+    
+    - Added dice.ml module. It creates a box with the word Dice on the interface. Clicking anywhere in the box generates 2 random numbers between 1 and 6.
+
+commit 06a5917093bbe85747661511110fc186c126c17c
+Author: es874 <es874@cornell.edu>
+Date:   Sun Mar 24 03:49:06 2024 -0400
+
+    Created modules for squares and used them for
+    drawing board
+
+commit 7d71a69afa0fa670d51ef95af8f3ac6483755b37
+Merge: 2dd6f7c a788748
+Author: es874 <es874@cornell.edu>
+Date:   Sat Mar 23 22:19:47 2024 -0400
+
+    Merged drawing and removing players
+
+commit 2dd6f7cc73bf5ef9ffd38a90e17372b900d64784
+Author: es874 <es874@cornell.edu>
+Date:   Sat Mar 23 21:56:30 2024 -0400
+
+    Visually remove player from board implemented; some comments added
+
+commit a7887483501d0cd8daa4fc77be7984ac20964d38
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat Mar 23 21:50:59 2024 -0400
+
+    Made 4 new players
+
+commit 7ebdc36b5dcca7e7c5b6f38cb5099d6824810c37
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat Mar 23 21:50:14 2024 -0400
+
+    Added player colored rectangles
+
+commit 53df95edbf08053cd15a696017a195b8f7dbdd2f
+Author: es874 <es874@cornell.edu>
+Date:   Sat Mar 23 20:26:19 2024 -0400
+
+    Drawing squares
+
+commit 593207216480358887954c47bab4adb257cda85d
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat Mar 23 19:33:29 2024 -0400
+
+    Removed main functions from board.ml to main.ml
+
+commit dfbc1746140ca4a884b0e5270f0c3b376c9731d4
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat Mar 23 19:32:34 2024 -0400
+
+    Moved main function portion from board.ml to main.ml
+
+commit 38cd2ef3544784225acfd7366c331859734c3cab
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat Mar 23 19:32:00 2024 -0400
+
+    Added graphics libary to main dune file
+
+commit b29e9322c1c3dd209dc69b45238e36b301a7756b
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Sat Mar 23 19:02:08 2024 -0400
+
+    First Board interface implementation
+
+commit 4bf7d4f2f0720a022aec28a62d31a0bfe56dcf63
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat Mar 9 14:11:12 2024 -0500
+
+    add name and netIDs
+
+commit 87fab26adcf365cade23c6e6fd6f6bb94171466c
+Merge: 6a85014 eeea6e5
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat Mar 9 14:08:51 2024 -0500
+
+    Merge branch 'main' of github.coecis.cornell.edu:gl458/3110-Final
+
+commit eeea6e521cf0df1c80a29bd95d03c603c4379b47
+Author: es874 <es874@cornell.edu>
+Date:   Sat Mar 9 14:06:18 2024 -0500
+
+    Added name
+
+commit 6a85014c90da22398bf52140c7060268edcb1dbd
+Author: Natalie Suggs <nrs86@cornell.edu>
+Date:   Sat Mar 9 13:59:03 2024 -0500
+
+    Add netID and name for Natalie
+
+commit 6c685e96039c7d364b64976be7f0fe0f95baa45b
+Author: Your Name <your_netid@cornell.edu>
+Date:   Sat Mar 9 13:50:45 2024 -0500
+
+    Added ocamlformat and optimised the format in README
+
+commit 29cc86e04b029d299056b9f053576790c1c21adb
+Author: Your Name <your_netid@cornell.edu>
+Date:   Sat Mar 9 13:48:14 2024 -0500
+
+    Added my name(Rich) in readme
+
+commit 20d16f58d0295a8fc5cd8ff443c7a6af08809f77
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Sat Mar 9 13:41:19 2024 -0500
+
+    Added my name to Readme file
+
+commit b7823f88920e6f6c9b639af436c5ffd4cd8a5876
+Author: Gaspard Loeillot <gl458@cornell.edu>
+Date:   Sat Mar 9 13:36:53 2024 -0500
+
+    Create Read.me file
+
+commit 0cdc684900f0813a1b292898bd216644fa3f8c91
+Author: gaspard-loeillot <gl458@cornell.edu>
+Date:   Sat Mar 9 13:28:02 2024 -0500
+
+    Initial commit

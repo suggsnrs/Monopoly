@@ -1,0 +1,11 @@
+category,text
+move,GO
+move,Jail
+lose,400
+lose,150
+lose,1000
+win,250
+win,500
+win,1000
+win,1
+win,750

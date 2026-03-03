@@ -1,0 +1,40 @@
+---
+# Members of your group.
+group:
+  - name: Natalie Suggs
+    netid: nrs86
+  - name: Elina Soskina
+    netid: es874
+  - name: Rich Hu
+    netid: lh656
+  - name: Gaspard Loeillot
+    netid: gl458
+# Your PM.
+pm:
+  name: Yuki Suwabe
+  netid: ys462
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Title
+title: "Ocaml Monopoly"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/gl458/3110-Final"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a rendition of the board game Monopoly. Player characteristics can easily be 
+  added as functions in the Player module, and Property and Special Square characteristics 
+  can be modified in a similar way via the PropSquare and SpecialSquare modules. The Board module 
+  contains all of the drawing functions using the Graphics library, and the Game module runs the 
+  game recursive loop.
+  
+  Visually, four players will take turns moving around the board (made up of properties). When you 
+  roll the dice in the center (click on them), the player whose turn it is will move forward that 
+  number of spaces. Above the board there are a series of buttons with messages that say what the 
+  player can do for their turn, assuming they meet the requirements. When the player is done with 
+  their turn, they select the button labeled "next", and then the next player rolls the dice.
+  
+  The game is played until there is only one player left, at which point the game prints a message saying
+  that player has won, and then it ends the game.
+  

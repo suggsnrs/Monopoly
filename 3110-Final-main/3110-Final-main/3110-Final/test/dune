@@ -1,0 +1,4 @@
+(test
+ (name test_final_3110)
+ (deps (glob_files *.csv))
+ (libraries ounit2 final_3110 graphics csv))
